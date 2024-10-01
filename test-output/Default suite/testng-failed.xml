@@ -5,10 +5,8 @@
     <classes>
       <class name="homePage.myTestCases">
         <methods>
+          <include name="CheckThePageFullyLoded"/>
           <include name="mySetup"/>
-          <include name="CheckQitafLogo"/>
-          <include name="TestHotelTabIsNotSelected"/>
-          <include name="CheckDepatureDate"/>
         </methods>
       </class> <!-- homePage.myTestCases -->
     </classes>
