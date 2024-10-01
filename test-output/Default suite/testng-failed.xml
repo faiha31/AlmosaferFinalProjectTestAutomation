@@ -6,10 +6,9 @@
       <class name="homePage.myTestCases">
         <methods>
           <include name="mySetup"/>
-          <include name="DefultCurrencySARTest"/>
-          <include name="CheckTheDefaultLanguageIsEnglish"/>
-          <include name="CheckContactNumber"/>
           <include name="CheckQitafLogo"/>
+          <include name="TestHotelTabIsNotSelected"/>
+          <include name="CheckDepatureDate"/>
         </methods>
       </class> <!-- homePage.myTestCases -->
     </classes>
